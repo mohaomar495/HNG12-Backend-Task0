@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "HNG12-Backend-Task0/wsgi.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "HNG12-Backend-Task0/wsgi.py"
+    }
+  ]
+}
