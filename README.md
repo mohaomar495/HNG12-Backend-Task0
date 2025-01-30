@@ -12,6 +12,6 @@ This is a public API that returns basic information in JSON format.
 ```json
 {
   "email": "mohaomar495@gmail.com",
-  "current_datetime": "2025-01-30T08:44:03.645874Z",
-  "github_url": "https://github.com/mohaomar495/HNG12-BackEnd-Internship/tree/main/task0/basic_info_api"
+  "current_datetime": "2025-01-30T08:50:24.717202Z",
+  "github_url": "https://github.com/mohaomar495/HNG12-BackEnd-Internship/"
 }
