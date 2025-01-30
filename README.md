@@ -17,4 +17,4 @@ This is a public API that returns basic information in JSON format.
 }
 ```
 ### Related Resource
-**URL**: 'https://hng.tech/hire/python-developers'
+**Link**: 'https://hng.tech/hire/python-developers'
