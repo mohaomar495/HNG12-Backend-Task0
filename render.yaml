@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: HNG12-Backend-Task0
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn HNG12-Backend-Task0.wsgi:application
