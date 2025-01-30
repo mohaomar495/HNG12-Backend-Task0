@@ -15,6 +15,6 @@ This is a public API that returns basic information in JSON format.
   "current_datetime": "2025-01-30T08:50:24.717202Z",
   "github_url": "https://github.com/mohaomar495/HNG12-BackEnd-Internship/"
 }
-
+```
 ### Related Resource
 **URL**: 'https://hng.tech/hire/python-developers'
